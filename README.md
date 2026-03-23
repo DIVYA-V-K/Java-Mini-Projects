@@ -29,29 +29,16 @@ These projects demonstrate Object-Oriented Programming, Collections Framework, S
 
 ---
 
+## 🛠 Technologies Used
+- Java (Core)
+- OOP Concepts
+- Collections Framework
+- Stream API
+- Lambda Expressions
+- Multithreading
+- File I/O
 
-## 📁 Project Structure
-MiniProject
-│
-├── src
-│   ├── com.library.app
-│   ├── com.library.model
-│   ├── com.library.service
-│   │
-│   ├── studentproject
-│   │   ├── Student.java
-│   │   ├── StudentService.java
-│   │   ├── InvalidMarksException.java
-│   │   └── StudentMain.java
-│   │
-│   └── logproject
-│       ├── LogProcessor.java
-│       └── LogMain.java
-│
-├── log.txt   ⭐ ONLY HERE
-├── .gitignore
-└── README.md
-
+---
 
 ## 🚀 How to Run
 
